@@ -21,3 +21,19 @@ Applications
 Assistive Communication: Helps in translating sign language into text or speech.
 Accessibility Tools: Facilitates more accessible interfaces for hearing-impaired individuals.
 Educational Tools: Can aid in learning and practicing sign language
+
+System Implementation
+
+![image](https://github.com/user-attachments/assets/cddb9294-b580-405b-a3b6-d31239bb2b45)
+
+![image](https://github.com/user-attachments/assets/838d7146-1560-49b3-9cf5-83acb78fc8ea)
+
+![image](https://github.com/user-attachments/assets/7cc553c6-0941-40af-8ee7-84bc63ffeed5)
+
+![image](https://github.com/user-attachments/assets/bf5c55e4-82c6-4415-b431-b2c229dc63c0)
+
+![image](https://github.com/user-attachments/assets/1e848a78-1179-4c48-866a-6ca4b3dd90fe)
+
+
+
+
